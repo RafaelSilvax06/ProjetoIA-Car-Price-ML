@@ -1,4 +1,5 @@
-# 🚗 PROJETO IA - MACHINE LEARNING - PREÇO DE CARROS
+# 🚗 PROJETO IA - MACHINE LEARNING - AUTOPRICE-ML-Sistema de Precificação de Veículos com Inteligência Artificial
+
 
 ## Integrantes do Grupo
 
